@@ -1,0 +1,20 @@
+Individual Work on pytest suite. 
+
+pytest test suite with minimum 8 tests covering: 
+Data loading/fetching functions (Armaan) 
+- Data should have rows.
+- Data should have necessary columns.
+Data cleaning functions (e.g., "test that duplicates are removed") (Tori) 
+Remove duplicates
+Check state column to have relevant names (CT, MA, etc)
+Remove missing data
+Period into date time
+Sales numeric 
+Merge logic (e.g., "test that merge preserves expected rows") (Ranya)
+1
+2
+3
+Data validation (e.g., "test that values are in valid ranges") (Tori)
+Test its valid new england states (just the 6)
+Testing that sectors are only residential or commercial
+Test that the years fall between 2014-2024
